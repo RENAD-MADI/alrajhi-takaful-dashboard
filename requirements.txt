@@ -1,9 +1,8 @@
 streamlit
 pandas
+numpy
+plotly
 matplotlib
 seaborn
-plotly
-streamlit-gsheets
 reportlab
-numpy
-scipy
+streamlit-gsheets
