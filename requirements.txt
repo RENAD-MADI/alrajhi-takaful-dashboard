@@ -5,4 +5,4 @@ plotly
 matplotlib
 seaborn
 reportlab
-streamlit-gsheets
+st-gsheets-connection
