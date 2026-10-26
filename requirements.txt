@@ -1,8 +1,5 @@
-streamlit
-pandas
-numpy
-plotly
-matplotlib
-seaborn
-reportlab
+streamlit>=1.32
 st-gsheets-connection
+pandas
+plotly
+openpyxl
